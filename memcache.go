@@ -1,4 +1,5 @@
-package cache
+// memcache.go
+package gomemorycache
 
 import "sync"
 

@@ -1,4 +1,5 @@
-package cache
+// ttlcache.go
+package gomemorycache
 
 import (
 	"sync"
